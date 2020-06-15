@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sulla": "^2.3.14"
+    "venom-bot": "^1.0.4"
   }
 }

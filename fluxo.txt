@@ -1,0 +1,5 @@
+-- Boas vindas e apresentar o cadápio 
+-- Vendas 
+-- Resumo 
+-- endereço de entrega 
+-- enceramento

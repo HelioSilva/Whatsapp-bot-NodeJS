@@ -19,6 +19,10 @@ var stages = {
     descricao: "Enceramento",
     obj: require("./stages/4"),
   },
+  5: {
+    descricao: "Forma de Pagamento",
+    obj: require("./stages/5"),
+  },
 };
 
 exports.step = stages;
