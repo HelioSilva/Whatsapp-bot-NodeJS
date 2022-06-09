@@ -26,7 +26,7 @@ function execute(user, msg, contato) {
 
     return [
         menu,
-        `${time} ${contato} sou uma assistente virtual, irei apresentar o carpádio, para fazer o pedido basta enviar o codigo do produto`,
+        `${time} ${contato} sou uma assistente virtual, irei apresentar o cardápio, e para fazer o pedido basta enviar o código do produto`,
     ];
 }
 
