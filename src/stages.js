@@ -16,7 +16,7 @@ var stages = {
     obj: require("./stages/3"),
   },
   4: {
-    descricao: "Enceramento",
+    descricao: "Encerramento",
     obj: require("./stages/4"),
   },
   5: {
