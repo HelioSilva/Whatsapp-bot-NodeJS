@@ -23,7 +23,7 @@ function execute(user, msg) {
 
     return [
         "```Digite # para finalizar ou * para cancelar```",
-        `Item(${menu0[msg].description}) adiconado com sucesso`,
+        `Item(${menu0[msg].description}) adicionado com sucesso`,
     ];
 }
 
