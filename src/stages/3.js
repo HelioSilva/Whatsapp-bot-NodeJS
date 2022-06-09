@@ -14,7 +14,7 @@ function execute(user, msg) {
     }
     return [
         "```Digite # para continuar ou * para cancelar```",
-        `Confirma endereco de entrega : \n ${msg}`,
+        `Confirma endereço de entrega : \n ${msg}`,
     ];
 }
 
