@@ -1,5 +1,0 @@
-[0503/161742.410:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
-[0520/125740.337:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
-[0615/194340.952:ERROR:file_io_win.cc(161)] CreateFile C:\Users\HLIOSI~1\AppData\Local\Temp\puppeteer_dev_chrome_profile-Mnf6Ze\Crashpad\settings.dat: O sistema não pode encontrar o caminho especificado. (0x3)
-[0615/194341.044:ERROR:file_io_win.cc(170)] CreateFile C:\Users\HLIOSI~1\AppData\Local\Temp\puppeteer_dev_chrome_profile-Mnf6Ze\Crashpad\reports\26069ece-3da0-4b80-88a7-43834f964db2.dmp: O sistema não pode encontrar o caminho especificado. (0x3)
-[0615/194341.045:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
